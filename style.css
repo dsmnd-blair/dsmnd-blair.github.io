@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+  }
+body {
+    width: 960px;
+    background: #4d4242
+}
+header {
+    margin-left: 20%;
+    margin-right: -40%;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    background: darkred;
+    font-size: 25px;
+    font-family: 'Big Shoulders Display', cursive;
+  }
+ nav {
+    margin-left: 20%;
+    margin-right: -40%;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    background: #978888;
+    font-size: 25px;
+    font-family: 'Big Shoulders Display', cursive;
+
+ }
+
+ section { 
+     margin-left: 20%;
+     width: 595px;
+     padding: 10px;
+     margin-bottom: 10px;
+     background: #978888;
+     font-size: 15px;
+     font-family: 'Inconsolata', monospace;
+     color: #ffffff;
+
+ }
+
+
+ article {
+     padding: 10px;
+     margin: 20px;
+     font-family: 'Inconsolata', monospace;
+     text-align: center;
+     background: #4d4242;
+     height: 200px;
+    }
+
+ h1,h2,h3 {
+    font-family: 'Inconsolata', monospace;
+    background: #978888;
+    height: 60px;
+    text-align: center;
+
+ }
+
+ p {
+    font-family: 'Inconsolata', monospace;
+    background: #978888;
+    height: 60px;
+ }
+
+ aside {
+    float: right;
+    clear: right;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 495px;
+    height: 100x;
+    background: #978888;
+    font-family: 'Inconsolata', monospace;
+    color: #ffffff;
+
+}
+
+ footer {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 25px;
+    flex-wrap: 0;
+    color: #ffffff;
+    background: #978888;
+    margin-left: 20%;
+    margin-right: -40%;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+ }
